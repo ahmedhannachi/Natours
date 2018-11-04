@@ -1,0 +1,4 @@
+@function col-width-of($nbr,$of){
+  $one-of: calc((100% - ((#{$of} - 1) * #{$gutter-horizontal})) / #{$of});
+  @return calc((#{$nbr} * #{$one-of}) + (#{$gutter-horizontal} * (#{$nbr} - 1)));
+}
