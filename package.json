@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for nature tours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedhannachi/Natours.git"
+  },
+  "author": "HANNACHI Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedhannachi/Natours/issues"
+  },
+  "homepage": "https://github.com/ahmedhannachi/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
